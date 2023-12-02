@@ -1,0 +1,3 @@
+Especie
+credito
+pix
